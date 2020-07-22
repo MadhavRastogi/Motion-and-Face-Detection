@@ -1,1 +1,1 @@
-# MotionDetection & Face Detection
+# Motion & Face Detection
